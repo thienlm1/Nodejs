@@ -1,0 +1,44 @@
+{
+  "method": "get",
+  "url": "http://localhost:5555/users/0",
+  "params": {
+    "email": "thien@gmail.com"
+  },
+  "paramsArray": [
+    [
+      "4eb47977-3874-4e0a-b58d-8fd1eee9b4aa",
+      "email",
+      "thien@gmail.com",
+      true,
+      "STRING"
+    ]
+  ],
+  "data": {
+    "email": "thien@gmail.com"
+  },
+  "backup": {
+    "bodyType": "form-data",
+    "data": {},
+    "dataArray": [
+      [
+        "d277d67d-ca2b-40f5-a28a-81d6967faee5",
+        "email",
+        "thien@gmail.com",
+        true,
+        "STRING"
+      ]
+    ]
+  },
+  "headers": {
+    "Content-Type": "multipart/form-data"
+  },
+  "headersArray": [
+    [
+      "32ae2a78-2a8c-477c-8e8d-1c36561a64df",
+      "Content-Type",
+      "multipart/form-data",
+      true,
+      "STRING"
+    ]
+  ]
+}
